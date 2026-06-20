@@ -1,2 +1,14 @@
 # cn-brand-hub
-HTML page archive and documentation
+
+HTML 页面维护仓库
+
+本项目用于归档自动化任务输出的页面文件和基础说明。
+
+## 文件归档
+
+- HTML 页面用于访问展示
+- README 用于说明归档用途
+
+## 说明
+
+本仓库用于页面托管和归档，具体文件以当前仓库内容为准。
